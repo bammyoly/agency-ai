@@ -22,7 +22,7 @@ const Hero = () => {
         transition={{ duration: 0.6, delay: 0.8 }}
         viewport={{ once: true }}
         className='text-4xl sm:text-5xl md:text-6xl xl:text-[84px] font-medium xl:leading-[95px] 
-        max-w-5xl'>Creating imaginations for <span className='bg-gradient-to-r from-[#5044E5] t0-[#4d8cea] 
+        max-w-5xl'>Creating imaginations for <span className='bg-gradient-to-r from-[#5044E5] to-[#4d8cea] 
         bg-clip-text text-transparent'>digital </span>impact</motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 30 }}
